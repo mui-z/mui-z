@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![mui-z's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mui-z)](https://github.com/anuraghazra/github-readme-stats)
+[![mui-z's GitHub stats](https://github-readme-stats.vercel.app/api?username=mui-z&count_private=true&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mui-z&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
